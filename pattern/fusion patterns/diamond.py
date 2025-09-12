@@ -16,3 +16,8 @@ for i in range(1,3+1,1):
     for j in range(1,n-i+1+1,1):
         print("*",end="")
     print("")
+
+
+
+    # this is the combination of the two programms seperately for each gets it own logic seperately
+    
