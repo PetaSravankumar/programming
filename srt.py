@@ -5,4 +5,5 @@ for i in range(1,4+1,1):
         print("*",end='')
     print("")
 
-
+n=4
+print("hlo")
