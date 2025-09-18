@@ -4,6 +4,6 @@ while n!=0:
     r=n%10
     n=n//10
     rev=rev*10+r
-    rev=rev*10
-    rev=rev+r   
+    # rev=rev*10
+    # rev=rev+r   this is also used for the above line 
 print(rev)
