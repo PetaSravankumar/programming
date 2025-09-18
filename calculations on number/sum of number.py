@@ -5,3 +5,4 @@ while n!=0:
     n=n//10
     sum=sum+r
 print(sum)
+print(20)
