@@ -12,3 +12,7 @@ while n!=0:
     n=n//10
     sum=sum+(r**len)
 print(sum)
+if sum==save:
+    print("armstrong")
+else:
+    print("not a armstrong")
