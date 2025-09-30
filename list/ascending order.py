@@ -5,4 +5,4 @@ for i in range(len(l)):
         if l[i]>l[j]:
             l[i],l[j]=l[j],l[i]
 print(l)
-print(l)
+
