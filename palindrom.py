@@ -10,7 +10,7 @@ if n==n1:
             print(a)
         else:
             print("not")
-print(a)
+
         
 
             
