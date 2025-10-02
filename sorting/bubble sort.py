@@ -8,6 +8,7 @@ for j in range(0,n-1+1,1):
             a[i+1]=c
         print(a)
     print("")
+print(a)
 
 # for i in range(0,n-2+1,1):
 #         if a[i]>a[i+1]:
