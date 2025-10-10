@@ -7,4 +7,4 @@ for i in b:
 for i in a:
     if i not in b:
         c.append(i)
-print(c)
+    print(c)
