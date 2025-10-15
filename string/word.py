@@ -8,3 +8,7 @@ for i in s:
         a=""
 l.append(a)
 print(l)
+a=""
+for i in l:
+    a=a+i+" "
+print(a)
