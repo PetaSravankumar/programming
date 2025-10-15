@@ -11,4 +11,4 @@ print(l)
 a=""
 for i in l:
     a=a+i+" "
- print(a)
+print(a)
