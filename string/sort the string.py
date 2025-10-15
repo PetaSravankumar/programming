@@ -7,7 +7,7 @@ for j in range(0,n-1+1,1):
             c=b[i]
             b[i]=b[i+1]
             b[i+1]=c
-a=""
+ a=""
 for i in b:
     a+=i
 print(a)
